@@ -1,0 +1,13 @@
+{
+    "accessEntry": {
+        "clusterName": "eks-cluster",
+        "principalArn": "arn:aws:iam::859384798511:user/mega-project-user",
+        "kubernetesGroups": [],
+        "accessEntryArn": "arn:aws:eks:us-east-2:859384798511:access-entry/eks-cluster/user/859384798511/mega-project-user/08cf8431-3804-a4ca-553d-c0fed2e57b01",
+        "createdAt": "2026-06-27T09:21:36.835000+00:00",
+        "modifiedAt": "2026-06-27T09:21:36.835000+00:00",
+        "tags": {},
+        "username": "arn:aws:iam::859384798511:user/mega-project-user",
+        "type": "STANDARD"
+    }
+}
