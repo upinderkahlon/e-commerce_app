@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: easyshop
-          image: kahlon/easyshop-app:1
+          image: upinderkahlon/easyshop-app:1
           imagePullPolicy: Always
           ports:
             - containerPort: 3000
